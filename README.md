@@ -1,2 +1,1 @@
 # Thinking-dataset-creator
-#MIT
